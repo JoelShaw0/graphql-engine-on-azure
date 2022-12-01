@@ -9,11 +9,11 @@ For a more detailed step-by-step guide on deplopying individual
 resources to Azure using the CLI, refer to the 
 [documentation](https://docs.hasura.io/1.0/graphql/manual/guides/deployment/azure-container-instances-postgres.html).
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fhasura%2fgraphql-engine-on-azure%2fmaster%2farm-aci%2fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fJoelShaw0%2fgraphql-engine-on-azure%2fmaster%2farm-aci%2fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 <!--
-<a href="http://armviz.io/#/?load=https%3a%2f%2fraw.githubusercontent.com%2fhasura%2fgraphql-engine-on-azure%2fmaster%2farm-aci%2fazuredeploy.json" target="_blank">
+<a href="http://armviz.io/#/?load=https%3a%2f%2fraw.githubusercontent.com%2fJoelShaw0%2fgraphql-engine-on-azure%2fmaster%2farm-aci%2fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 -->
