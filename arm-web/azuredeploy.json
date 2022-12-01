@@ -11,7 +11,7 @@
     },
     "postgresVersion": {
       "type": "String",
-      "defaultValue": "10",
+      "defaultValue": "11",
       "allowedValues": [
         "12",
         "11",
