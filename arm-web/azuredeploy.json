@@ -13,6 +13,8 @@
       "type": "String",
       "defaultValue": "10",
       "allowedValues": [
+        "12",
+        "11",
         "10",
         "9.6",
         "9.5"
@@ -43,7 +45,7 @@
     "adminUser": "hasura",
     "dbName": "hasura",
     "firewallRuleName": "allow-all-azure-firewall-rule",
-    "containerImage": "hasura/graphql-engine:v1.0.0-alpha27"
+    "containerImage": "hasura/graphql-engine:v2.15.1"
   },
   "resources": [
     {
